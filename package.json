@@ -1,0 +1,23 @@
+{
+  "name": "@types/recorder-core",
+  "version": "1.0.0",
+  "description": "Typescript definitions for recorder-core",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingfisher/recorder-core-types.git"
+  },
+  "keywords": [
+    "types",
+    "recorder-core"
+  ],
+  "author": "flyingfisher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyingfisher/recorder-core-types/issues"
+  },
+  "homepage": "https://github.com/flyingfisher/recorder-core-types#readme"
+}
